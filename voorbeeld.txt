@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Karel is cool
-=======
-voorbeeld enzo
->>>>>>> 59b2b17eae9f3201c80626a0b62ada9ef6cbeb6f
+Karel is een beetje cool
+
